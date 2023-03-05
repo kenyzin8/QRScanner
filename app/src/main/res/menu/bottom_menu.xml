@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Home"
+        android:id="@+id/firstFragment"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:title="Scanner"
+        android:id="@+id/secondFragment"
+        android:icon="@drawable/ic_qr_code_scanner"/>
+
+    <item
+        android:title="Attendance"
+        android:id="@+id/thirdFragment"
+        android:icon="@drawable/ic_event_note"/>
+</menu>
